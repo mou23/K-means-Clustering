@@ -2,3 +2,4 @@
 2. Specify the image path and number of clusters in MyMain class
 3. run the project.
 4. Specify the RGB value for each cluster.
+5. The output image will be saved as "out.jpg"
